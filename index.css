@@ -32,7 +32,7 @@ footer {
 }
 
 .flex-container {
-  flex-direction: column;
+  flex-flow: column wrap;
   display: flex;
   width: 100vw;
   height: 100vh;
